@@ -5,14 +5,17 @@ Find the number of employees eligible for retirement and the number of open posi
 -90,398 employees nearing retirement
 
 -majority from Senior Staff and Senior Engineers
+
 ![image](https://user-images.githubusercontent.com/84299125/127862963-5d5e55ee-f9c0-48c5-bd05-1b9754bf85ec.png)
 
 
 -Production and Development Departments stand to lose the highest number, followed by Sales
+
 ![image](https://user-images.githubusercontent.com/84299125/127863154-379d2ea2-438a-4cca-a613-149d0a58c2e3.png)
 
 
 -1,550 employees are eligible for the mentorship program
+
 ![image](https://user-images.githubusercontent.com/84299125/127863398-b16fc936-4d3e-413a-900b-fefb2ee1d806.png)
 
 
@@ -22,6 +25,7 @@ Pewlett-Hackard needs to prepare for the retirement of a large number of employe
 The first thing Pewlett-Hackard needs to do is fix the payroll data. We have tens of thousands of employees making exactly $40,000 a year, which appears to be starting pay. This indicates that a lot of people are in line for raises or promotions. But then there are a number of other salaries in the database going up by absurdly small dollar amounts. It is nearly impossible that this is accurate data. Why would anyone have a salary of $40,002? If Pewlett-Hackard doesn't know how much their current employees are being paid, then they will be in no position to hire new employees.
 
 Also, the employee roster reveals that we have 9 managers, but only 2 current managers are actually assigned to a department. One department has not had a manager assigned sine 1988! Every department needs a manager, especially with a huge influx of new hires. Assign departments to the remaining 7 managers.
+
 ![image](https://user-images.githubusercontent.com/84299125/127864423-92f0eab7-7c0a-4709-ae91-32d8abeab0c8.png)
 
 
