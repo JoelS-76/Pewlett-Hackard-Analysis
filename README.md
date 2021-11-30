@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
-Find the number of employees eligible for retirement and the number of open positions
+The purpose of this analysis is to find the number of employees eligible for retirement, the positions likely to open up, and begin to strategize about how to promote from within to maintain continuity in transition.
 
-## Initial Analysis
+## The figures from initial breakdown of the data
 -90,398 employees nearing retirement
 
 -majority from Senior Staff and Senior Engineers
