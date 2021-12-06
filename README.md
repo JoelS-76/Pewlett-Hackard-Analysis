@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-The purpose of this analysis is to find the number of employees eligible for retirement, the positions likely to open up, and begin to strategize about how to promote from within to maintain continuity in transition.
+The purpose of this analysis is to find the number of employees eligible for retirement and the positions likely to open up. Then we can begin to strategize about how to promote from within to maintain continuity in transition.
 
 ## The figures from initial breakdown of the data
 -90,398 employees nearing retirement
